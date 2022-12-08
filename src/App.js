@@ -1,5 +1,4 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import "./App.css";
 import Form from "./Components/Form";
 import Main from "./Components/Main";
 import Updateform from "./Components/Updateform";

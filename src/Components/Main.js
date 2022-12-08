@@ -144,6 +144,7 @@ const Main = () => {
                 </div>
               </div>
               {/* Search box End */}
+
               {/* Active User Start */}
 
               <div className="bg-slate-400">
